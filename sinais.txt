@@ -1,4 +1,4 @@
-M1;eurusd;23:19:00;CALL
+M1;eurjpy;23:17:25;put
 M5;eurusd;23:21:00;CALL
 M15;eurusd;23:30:00;CALL
 H1;eurusd;00:00:00;CALL
